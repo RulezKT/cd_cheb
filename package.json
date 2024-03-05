@@ -1,0 +1,19 @@
+{
+  "name": "cd_cheb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cd_cheb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RulezKT/cd_cheb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RulezKT/cd_cheb/issues"
+  },
+  "homepage": "https://github.com/RulezKT/cd_cheb#readme"
+}
